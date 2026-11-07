@@ -1,0 +1,3026 @@
+{
+  "icons": [
+    {
+      "title": "1984 Hosting",
+      "slug": "1984",
+      "hex": "000000"
+    },
+    {
+      "title": "1xBet",
+      "slug": "1x_bet"
+    },
+    {
+      "title": "23andme"
+    },
+    {
+      "title": "3Commas"
+    },
+    {
+      "title": "Aadhaar",
+      "slug": "aadhaar",
+      "altNames": [
+        "uidai",
+        "UIDAI",
+        "Unique Identification Authority of India"
+      ]
+    },
+    {
+      "title": "ABB",
+      "slug": "abb"
+    },
+    {
+      "title": "Accountable",
+      "slug": "accountable",
+      "hex": "794FD7"
+    },
+    {
+      "title": "Accredible",
+      "slug": "accredible",
+      "altNames": [
+        "Accredible Certificates",
+        "Accredible Badges",
+        "Digital Credentials",
+        "certificates.zaka.ai"
+      ]
+    },
+    {
+      "title": "Addy.io",
+      "slug": "addy_io"
+    },
+    {
+      "title": "adnymics",
+      "hex": "189cd9"
+    },
+    {
+      "title": "Adobe",
+      "hex": "EB1000"
+    },
+    {
+      "title": "aero.zip",
+      "slug": "aero_zip"
+    },
+    {
+      "title": "Affiliprint",
+      "slug": "affiliprint",
+      "hex": "0000ff"
+    },
+    {
+      "title": "Ahrefs",
+      "slug": "ahrefs"
+    },
+    {
+      "title": "Airtable"
+    },
+    {
+      "title": "airtm",
+      "hex": "000000"
+    },
+    {
+      "title": "AirVPN",
+      "slug": "airvpn"
+    },
+    {
+      "title": "AJ Bell",
+      "slug": "aj_bell"
+    },
+    {
+      "title": "aliyun",
+      "hex": "F76E05",
+      "altNames": [
+        "阿里云"
+      ]
+    },
+    {
+      "title": "Allan Gray",
+      "slug": "allan_gray"
+    },
+    {
+      "title": "Allegro",
+      "slug": "allegro",
+      "hex": "FF5A00"
+    },
+    {
+      "title": "Alternate",
+      "slug": "alternate"
+    },
+    {
+      "title": "Amazon",
+      "hex": "FF9900"
+    },
+    {
+      "title": "Amica",
+      "slug": "amica"
+    },
+    {
+      "title": "Amtrak",
+      "slug": "amtrak",
+      "hex": "004D6E"
+    },
+    {
+      "title": "Ancestry"
+    },
+    {
+      "title": "Animal Crossing",
+      "slug": "animal_crossing",
+      "altNames": [
+        "AnimalCrossing",
+        "Bell Tree Forums",
+        "BellTree Forums"
+      ]
+    },
+    {
+      "title": "Ankama",
+      "slug": "ankama",
+      "hex": "000000"
+    },
+    {
+      "title": "Ankara University",
+      "slug": "ankara_university",
+      "altNames": [
+        "Ankara Üniversitesi"
+      ]
+    },
+    {
+      "title": "Anycoin Direct",
+      "slug": "anycoindirect"
+    },
+    {
+      "title": "AR24",
+      "altNames": [
+        "Docaposte AR24"
+      ]
+    },
+    {
+      "title": "Art Fight",
+      "slug": "art_fight",
+      "altNames": [
+        "ArtFight"
+      ]
+    },
+    {
+      "title": "Aruba",
+      "slug": "aruba",
+      "hex": "ef8a33"
+    },
+    {
+      "title": "AscendEX",
+      "hex": "000000"
+    },
+    {
+      "title": "Aternos",
+      "slug": "aternos"
+    },
+    {
+      "title": "Autenti",
+      "slug": "autenti"
+    },
+    {
+      "title": "authentik",
+      "altNames": [
+        "goauthentik"
+      ],
+      "hex": "fd4b2d"
+    },
+    {
+      "title": "availity"
+    },
+    {
+      "title": "Avenue",
+      "altNames": [
+        "avenue.us",
+        "Avenue Securities"
+      ]
+    },
+    {
+      "title": "AvistaZ.to",
+      "slug": "avistaz"
+    },
+    {
+      "title": "AzurHosts",
+      "slug": "azurhosts",
+      "altNames": [
+        "minenode"
+      ]
+    },
+    {
+      "title": "AzurWare",
+      "slug": "azurware"
+    },
+    {
+      "title": "Badlion",
+      "slug": "badlion",
+      "altNames": [
+        "Badlion Client",
+        "BadlionClient"
+      ]
+    },
+    {
+      "title": "BaiduCloud",
+      "slug": "baidu_cloud",
+      "altNames": [
+        "百度云",
+        "baiduyun"
+      ]
+    },
+    {
+      "title": "BambooHR",
+      "slug": "bamboohr",
+      "altNames": [
+        "BambooHR"
+      ]
+    },
+    {
+      "title": "Band",
+      "slug": "band"
+    },
+    {
+      "title": "Basebuilder",
+      "slug": "basebuilder",
+      "hex": "ff6900"
+    },
+    {
+      "title": "Battle.net",
+      "slug": "battlenet",
+      "altNames": [
+        "Battle net",
+        "Blizzard"
+      ]
+    },
+    {
+      "title": "Beefree"
+    },
+    {
+      "title": "Belo"
+    },
+    {
+      "title": "Best Buy",
+      "slug": "bestbuy",
+      "altNames": [
+        "BestBuy",
+        "bestbuy.com"
+      ]
+    },
+    {
+      "title": "Bethesda",
+      "altNames": [
+        "Bethesda Softworks"
+      ]
+    },
+    {
+      "title": "Binance",
+      "slug": "binance_exchange",
+      "altNames": [
+        "币安"
+      ]
+    },
+    {
+      "title": "Binance TR",
+      "slug": "binance_tr"
+    },
+    {
+      "title": "BinanceUS",
+      "slug": "binance_us",
+      "altNames": [
+        "Binance US"
+      ]
+    },
+    {
+      "title": "Binghamton University",
+      "slug": "binghamton_university",
+      "altNames": [
+        "Binghamton",
+        "Binghamton Univ",
+        "Binghamton University SSO",
+        "BingOTP"
+      ]
+    },
+    {
+      "title": "BingX"
+    },
+    {
+      "title": "Bitazza",
+      "slug": "bitazza"
+    },
+    {
+      "title": "Bitbuy"
+    },
+    {
+      "title": "Bitfinex"
+    },
+    {
+      "title": "bitget"
+    },
+    {
+      "title": "bitget wallet",
+      "slug": "bitget_wallet"
+    },
+    {
+      "title": "Bitkub",
+      "slug": "bitkub"
+    },
+    {
+      "title": "Bitmart",
+      "hex": "000000"
+    },
+    {
+      "title": "BitMEX"
+    },
+    {
+      "title": "BitOasis"
+    },
+    {
+      "title": "BitSkins",
+      "hex": "000000"
+    },
+    {
+      "title": "Bitstamp",
+      "hex": "003B2F"
+    },
+    {
+      "title": "Bitvavo"
+    },
+    {
+      "title": "Bitwarden"
+    },
+    {
+      "title": "Biznet",
+      "altNames": [
+        "BiznetGio"
+      ]
+    },
+    {
+      "title": "BJ-Share",
+      "slug": "bj-share"
+    },
+    {
+      "title": "Blockchain",
+      "altNames": [
+        "blockchain.com",
+        "blockchain.com Wallet",
+        "blockchain.com Exchange"
+      ]
+    },
+    {
+      "title": "Bloom Host",
+      "slug": "bloom_host",
+      "altNames": [
+        "Bloom Host Billing"
+      ]
+    },
+    {
+      "title": "Bluesky",
+      "slug": "blue_sky"
+    },
+    {
+      "title": "bonify",
+      "slug": "bonify",
+      "hex": "165CC3",
+      "altNames": [
+        "bonify.de"
+      ]
+    },
+    {
+      "title": "Booking",
+      "altNames": [
+        "Booking.com"
+      ]
+    },
+    {
+      "title": "BorgBase",
+      "slug": "borg_base",
+      "altNames": [
+        "borg"
+      ]
+    },
+    {
+      "title": "Borrowell",
+      "slug": "borrowell"
+    },
+    {
+      "title": "Brave Creators",
+      "slug": "brave_creators",
+      "altNames": [
+        "Brave",
+        "Brave Rewards",
+        "Brave Browser"
+      ]
+    },
+    {
+      "title": "btcturk"
+    },
+    {
+      "title": "Buenbit"
+    },
+    {
+      "title": "Bugzilla"
+    },
+    {
+      "title": "Bundesagentur für Arbeit",
+      "slug": "bundesagentur_fur_arbeit",
+      "altNames": [
+        "Agentur für Arbeit"
+      ]
+    },
+    {
+      "title": "ButterflyMX",
+      "slug": "butterflymx"
+    },
+    {
+      "title": "BuyUcoin",
+      "hex": "28ABE3",
+      "altNames": [
+        "buyucoin.com"
+      ]
+    },
+    {
+      "title": "Bybit",
+      "hex": "F6A500"
+    },
+    {
+      "title": "Caixa"
+    },
+    {
+      "title": "Caltrain",
+      "slug": "caltrain"
+    },
+    {
+      "title": "Canada Life",
+      "slug": "canada_life"
+    },
+    {
+      "title": "Canva"
+    },
+    {
+      "title": "Capacities",
+      "hex": "000000"
+    },
+    {
+      "title": "Capcom",
+      "slug": "capcom",
+      "altNames": [
+        "Capcom Co., Ltd.",
+        "CAPCOM ID"
+      ]
+    },
+    {
+      "title": "Cardmarket",
+      "slug": "cardmarket",
+      "hex": "012169"
+    },
+    {
+      "title": "Carta",
+      "hex": "000000",
+      "altNames": [
+        "Carta.com"
+      ]
+    },
+    {
+      "title": "CatRealm",
+      "slug": "catrealm"
+    },
+    {
+      "title": "CERN",
+      "slug": "cern"
+    },
+    {
+      "title": "ChangeNOW"
+    },
+    {
+      "title": "Channel Island Hosting",
+      "slug": "cih",
+      "hex": "D14633"
+    },
+    {
+      "title": "Charles Schwab",
+      "slug": "charles_schwab",
+      "altNames": [
+        "schwab",
+        "charles-schwab",
+        "charles schwab"
+      ]
+    },
+    {
+      "title": "Chaturbate",
+      "slug": "chaturbate",
+      "altNames": [
+        "Chaturbate.com"
+      ]
+    },
+    {
+      "title": "Chexy",
+      "slug": "chexy"
+    },
+    {
+      "title": "Chucklefish"
+    },
+    {
+      "title": "CinemaZ.to",
+      "slug": "cinemaz",
+      "hex": "000000"
+    },
+    {
+      "title": "Clickdoc",
+      "slug": "clickdoc"
+    },
+    {
+      "title": "Clipper",
+      "slug": "clippercard",
+      "hex": "006298",
+      "altNames": [
+        "ClipperCard",
+        "clipper-card",
+        "Clipper Card"
+      ]
+    },
+    {
+      "title": "CloudAMQP"
+    },
+    {
+      "title": "Cloudflare"
+    },
+    {
+      "title": "ClouDNS"
+    },
+    {
+      "title": "Co-Wheels",
+      "slug": "cowheels"
+    },
+    {
+      "title": "Cocos Capital",
+      "slug": "cocos_capital",
+      "altNames": [
+        "cocos crypto"
+      ]
+    },
+    {
+      "title": "Coinbase"
+    },
+    {
+      "title": "Coincheck",
+      "slug": "coincheck",
+      "altNames": [
+        "コインチェック"
+      ]
+    },
+    {
+      "title": "CoinDCX"
+    },
+    {
+      "title": "CoinMarketCap",
+      "slug": "coinmarketcap",
+      "hex": "000000"
+    },
+    {
+      "title": "CoinSpot"
+    },
+    {
+      "title": "CoinTracking",
+      "slug": "cointracking",
+      "hex": "318EFA",
+      "altNames": [
+        "cointracking.info",
+        "Coin Tracking"
+      ]
+    },
+    {
+      "title": "colorado",
+      "altNames": [
+        "Colorado.gov",
+        "Colorado Gov",
+        "Colorado Government",
+        "Colorado Government Portal",
+        "Colorado COVES Death Certificates",
+        "Colorado COVES",
+        "Colorado Official State Web Portal",
+        "Colorado State Web Portal",
+        "Colorado State Portal",
+        "Colorado Web Portal",
+        "Colorado Portal",
+        "Colorado State",
+        "Colorado PEAK",
+        "myColorado"
+      ]
+    },
+    {
+      "title": "Computershare",
+      "slug": "computershare"
+    },
+    {
+      "title": "ConfigCat"
+    },
+    {
+      "title": "Control D",
+      "slug": "controld"
+    },
+    {
+      "title": "Coolify",
+      "slug": "coolify"
+    },
+    {
+      "title": "Cove Backup",
+      "slug": "cove"
+    },
+    {
+      "title": "Creately",
+      "slug": "creately"
+    },
+    {
+      "title": "Cronometer",
+      "slug": "cronometer"
+    },
+    {
+      "title": "Crowdpear"
+    },
+    {
+      "title": "CrowdSec",
+      "slug": "crowdsec"
+    },
+    {
+      "title": "Crowdstrike"
+    },
+    {
+      "title": "Cryptee",
+      "slug": "cryptee",
+      "hex": "000000"
+    },
+    {
+      "title": "Crypto.com",
+      "slug": "crypto",
+      "altNames": [
+        "crypto",
+        "Crypto com"
+      ]
+    },
+    {
+      "title": "CSAM"
+    },
+    {
+      "title": "CSFloat"
+    },
+    {
+      "title": "CSGORoll",
+      "slug": "csgoroll"
+    },
+    {
+      "title": "CSSBuy",
+      "slug": "cssbuy",
+      "altNames": [
+        "CSS Buy",
+        "CSS-Buy",
+        "cssbuy.com"
+      ]
+    },
+    {
+      "title": "Cults"
+    },
+    {
+      "title": "Cwallet",
+      "altNames": [
+        "cwallet",
+        "c-wallet",
+        "c wallet",
+        "cwallet.com"
+      ]
+    },
+    {
+      "title": "Cybersicherheitsportal",
+      "slug": "cybersicherheitsportal",
+      "altNames": [
+        "CSBW"
+      ]
+    },
+    {
+      "title": "Daisycon",
+      "slug": "daisycon",
+      "hex": "9cd137"
+    },
+    {
+      "title": "DCS",
+      "altNames": [
+        "Digital Combat Simulator"
+      ]
+    },
+    {
+      "title": "Deel",
+      "hex": "1B1B1B",
+      "altNames": [
+        "deel.com",
+        "app.deel.com"
+      ]
+    },
+    {
+      "title": "Deepal",
+      "slug": "deepal",
+      "altNames": [
+        "deepal.com",
+        "globalchangan.com",
+        "forodeepals05"
+      ]
+    },
+    {
+      "title": "DeepSeek",
+      "slug": "deepseek"
+    },
+    {
+      "title": "DEGIRO"
+    },
+    {
+      "title": "Deloitte",
+      "hex": "000000"
+    },
+    {
+      "title": "deriv"
+    },
+    {
+      "title": "desec.io",
+      "slug": "desec_io",
+      "hex": "000000",
+      "altNames": [
+        "desec",
+        "deSEC",
+        "deSEC.io"
+      ]
+    },
+    {
+      "title": "Deutsche Post",
+      "slug": "deutschepost",
+      "hex": "ffcc00"
+    },
+    {
+      "title": "DigiFinex",
+      "altNames": [
+        "Digi Finex",
+        "Digifinex.com"
+      ]
+    },
+    {
+      "title": "DirectAdmin"
+    },
+    {
+      "title": "Discourse"
+    },
+    {
+      "title": "DLsite",
+      "slug": "dlsite"
+    },
+    {
+      "title": "DMarket"
+    },
+    {
+      "title": "Doccle",
+      "slug": "doccle",
+      "hex": "91cd44"
+    },
+    {
+      "title": "Docker",
+      "slug": "docker",
+      "altNames": [
+        "Docker Hub",
+        "hub.docker.com"
+      ]
+    },
+    {
+      "title": "Dockhand",
+      "slug": "dockhand",
+      "altNames": [
+        "dockhand.pro"
+      ]
+    },
+    {
+      "title": "DocuSeal"
+    },
+    {
+      "title": "DocuSign",
+      "slug": "docusign",
+      "altNames": [
+        "DocuSign",
+        "DocuSign (NA1)",
+        "DocuSign (NA2)",
+        "DocuSign (NA3)",
+        "DocuSign (NA4)",
+        "DocuSign (EU)",
+        "DocuSign (AU)",
+        "DocuSign (CA)",
+        "DocuSign (JP1)"
+      ]
+    },
+    {
+      "title": "Dominos",
+      "slug": "dominos",
+      "altNames": [
+        "Domino's",
+        "Domino's Pizza"
+      ]
+    },
+    {
+      "title": "DonanımHaber",
+      "slug": "donanimhaber",
+      "altNames": [
+        "Donanım Haber",
+        "Donanim Haber"
+      ]
+    },
+    {
+      "title": "Doppler"
+    },
+    {
+      "title": "DreamHost Panel",
+      "slug": "dreamhost_panel"
+    },
+    {
+      "title": "Dropbox"
+    },
+    {
+      "title": "Dunkin' Donuts",
+      "slug": "dunkindonuts",
+      "altNames": [
+        "Dunkin'",
+        "Dunkin",
+        "Dunkin Donuts"
+      ]
+    },
+    {
+      "title": "Dupe",
+      "slug": "dupe",
+      "hex": "000000"
+    },
+    {
+      "title": "dus.net",
+      "slug": "dusnet"
+    },
+    {
+      "title": "e621"
+    },
+    {
+      "title": "eBay"
+    },
+    {
+      "title": "ecitizen kenya",
+      "slug": "ecitizen_kenya"
+    },
+    {
+      "title": "eClinicalWorks",
+      "slug": "eclinicalworks"
+    },
+    {
+      "title": "ecloud",
+      "altNames": [
+        "Murena"
+      ]
+    },
+    {
+      "title": "Ecobee",
+      "slug": "ecobee"
+    },
+    {
+      "title": "Electronic Arts",
+      "slug": "electronic_arts",
+      "altNames": [
+        "EA"
+      ]
+    },
+    {
+      "title": "Electrum"
+    },
+    {
+      "title": "emeritihealth",
+      "altNames": [
+        "Emeriti Health",
+        "Emeriti Retirement Health"
+      ]
+    },
+    {
+      "title": "Enable Banking",
+      "slug": "enablebanking",
+      "hex": "000000"
+    },
+    {
+      "title": "eneba"
+    },
+    {
+      "title": "enom",
+      "slug": "enom"
+    },
+    {
+      "title": "ente",
+      "hex": "1DB954"
+    },
+    {
+      "title": "Epic Games",
+      "slug": "epic_games",
+      "hex": "000000"
+    },
+    {
+      "title": "ESET",
+      "slug": "eset",
+      "altNames": [
+        "ESET Home",
+        "ESET Protect",
+        "ESET Small Business Security",
+        "ESET Home Security"
+      ]
+    },
+    {
+      "title": "Esketit"
+    },
+    {
+      "title": "ESL",
+      "slug": "esl",
+      "hex": "000000",
+      "altNames": [
+        "ESL Gaming"
+      ]
+    },
+    {
+      "title": "Estateguru"
+    },
+    {
+      "title": "EVEOnline",
+      "slug": "eve_online",
+      "altNames": [
+        "EVE Online"
+      ],
+      "hex": "858585"
+    },
+    {
+      "title": "exaroton",
+      "slug": "exaroton",
+      "altNames": [
+        "Exaroton"
+      ]
+    },
+    {
+      "title": "ExoticaZ.to",
+      "slug": "exoticaz"
+    },
+    {
+      "title": "Experian",
+      "slug": "experian"
+    },
+    {
+      "title": "Fanatical",
+      "slug": "fanatical",
+      "altNames": [
+        "FANATICAL"
+      ]
+    },
+    {
+      "title": "Fansly"
+    },
+    {
+      "title": "Fastmail"
+    },
+    {
+      "title": "Federal Student Aid",
+      "slug": "federal_student_aid",
+      "hex": "000000",
+      "altNames": [
+        "FSA",
+        "FAFSA"
+      ]
+    },
+    {
+      "title": "FetLife",
+      "slug": "fetlife"
+    },
+    {
+      "title": "Fidelity",
+      "slug": "fidelity",
+      "altNames": [
+        "Fidelity Investments"
+      ]
+    },
+    {
+      "title": "FileCloud",
+      "slug": "filecloud"
+    },
+    {
+      "title": "Filen",
+      "hex": "000000"
+    },
+    {
+      "title": "Finanzfluss",
+      "slug": "finanzfluss"
+    },
+    {
+      "title": "Finary"
+    },
+    {
+      "title": "Firefox",
+      "slug": "firefoxbrowser",
+      "altNames": [
+        "Firefox Browser"
+      ]
+    },
+    {
+      "title": "Fiwind"
+    },
+    {
+      "title": "Floxar",
+      "slug": "floxar",
+      "hex": "00BDFF"
+    },
+    {
+      "title": "Fluxer",
+      "slug": "fluxer"
+    },
+    {
+      "title": "fortrabbit",
+      "hex": "000000"
+    },
+    {
+      "title": "ForUsAll"
+    },
+    {
+      "title": "Forward Email",
+      "slug": "forwardemail"
+    },
+    {
+      "title": "FreeTaxUSA",
+      "slug": "freetaxusa"
+    },
+    {
+      "title": "Frenship"
+    },
+    {
+      "title": "FZJ",
+      "slug": "fzj",
+      "hex": "023d6b",
+      "altNames": [
+        "Forschungszentrum Jülich",
+        "FZJ IdP",
+        "iffLogin"
+      ]
+    },
+    {
+      "title": "G2A"
+    },
+    {
+      "title": "Gandi.net",
+      "slug": "gandi_net",
+      "altNames": [
+        "gandi.net"
+      ]
+    },
+    {
+      "title": "Garena"
+    },
+    {
+      "title": "Gate.com",
+      "slug": "gateio",
+      "altNames": [
+        "Gate.io",
+        "gate.io"
+      ]
+    },
+    {
+      "title": "Gateway Sentry",
+      "slug": "gatewaysentry"
+    },
+    {
+      "title": "GERID"
+    },
+    {
+      "title": "GitHub",
+      "hex": "181717"
+    },
+    {
+      "title": "GitLab"
+    },
+    {
+      "title": "GMX"
+    },
+    {
+      "title": "GoDaddy",
+      "altNames": [
+        "GoDaddy"
+      ]
+    },
+    {
+      "title": "GommeHD.net",
+      "slug": "gommehd",
+      "altNames": [
+        "GommeHD",
+        "GommeHDnet"
+      ]
+    },
+    {
+      "title": "Google"
+    },
+    {
+      "title": "Gosuslugi",
+      "slug": "gosuslugi",
+      "altNames": [
+        "Госуслуги"
+      ]
+    },
+    {
+      "title": "GOV.UK",
+      "slug": "gov_uk",
+      "hex": "000000",
+      "altNames": [
+        "Government Gateway"
+      ]
+    },
+    {
+      "title": "Government of Canada",
+      "slug": "canada_flag",
+      "altNames": [
+        "CRA",
+        "CRA/ARC",
+        "Canada Revenue Agency"
+      ]
+    },
+    {
+      "title": "Green Man Gaming",
+      "slug": "greenmangaming",
+      "altNames": [
+        "green man gaming",
+        "gmg"
+      ]
+    },
+    {
+      "title": "Guideline"
+    },
+    {
+      "title": "guns.lol"
+    },
+    {
+      "title": "Gusto"
+    },
+    {
+      "title": "Habbo"
+    },
+    {
+      "title": "HaloPSA",
+      "slug": "halo"
+    },
+    {
+      "title": "Healthchecks.io",
+      "slug": "healthchecks"
+    },
+    {
+      "title": "Hivelocity"
+    },
+    {
+      "title": "Hornbach"
+    },
+    {
+      "title": "Hover"
+    },
+    {
+      "title": "HRDocumentBox",
+      "slug": "hrdocumentbox",
+      "altNames": [
+        "HRDocumentBox",
+        "HR Document Box"
+      ]
+    },
+    {
+      "title": "HSA Bank",
+      "slug": "hsa_bank",
+      "altNames": [
+        "hsa bank",
+        "hsabank"
+      ]
+    },
+    {
+      "title": "HTW Berlin",
+      "slug": "htw-berlin"
+    },
+    {
+      "title": "HTX"
+    },
+    {
+      "title": "Hueber",
+      "slug": "hueber"
+    },
+    {
+      "title": "HuggingFace",
+      "altNames": [
+        "Hugging Face"
+      ]
+    },
+    {
+      "title": "Hulu",
+      "slug": "hulu"
+    },
+    {
+      "title": "Hytale",
+      "slug": "hytale"
+    },
+    {
+      "title": "IBKR",
+      "slug": "ibkr",
+      "altNames": [
+        "Interactive Brokers",
+        "IB"
+      ]
+    },
+    {
+      "title": "IBM",
+      "slug": "ibm",
+      "altNames": [
+        "International Business Machines",
+        "IBMid"
+      ]
+    },
+    {
+      "title": "IceDrive",
+      "slug": "ice_drive"
+    },
+    {
+      "title": "ICONOMI"
+    },
+    {
+      "title": "ID.me",
+      "slug": "id_me"
+    },
+    {
+      "title": "IDrive",
+      "slug": "idrive"
+    },
+    {
+      "title": "ImmoScout24",
+      "slug": "immo_scout_24",
+      "altNames": [
+        "ImmobilienScout24"
+      ]
+    },
+    {
+      "title": "Incogni",
+      "slug": "incogni",
+      "hex": "000000",
+      "altNames": [
+        "incogni.com"
+      ]
+    },
+    {
+      "title": "Infomaniak"
+    },
+    {
+      "title": "ING"
+    },
+    {
+      "title": "Instagram"
+    },
+    {
+      "title": "Instant Gaming",
+      "slug": "instant_gaming"
+    },
+    {
+      "title": "INWX"
+    },
+    {
+      "title": "IPQualityScore",
+      "slug": "ipqualityscore",
+      "altNames": [
+        "IPQS"
+      ]
+    },
+    {
+      "title": "IRCTC",
+      "slug": "irctc",
+      "altNames": [
+        "Indian Railway Catering and Tourism Corporation",
+        "Indian Railways"
+      ]
+    },
+    {
+      "title": "ISC2",
+      "slug": "isc2"
+    },
+    {
+      "title": "Itch",
+      "slug": "itch_io",
+      "hex": "000000"
+    },
+    {
+      "title": "IVPN",
+      "slug": "ivpn"
+    },
+    {
+      "title": "Jagex",
+      "hex": "D3D800"
+    },
+    {
+      "title": "JetBrains",
+      "slug": "jetbrains",
+      "altNames": [
+        "JetBrains Account"
+      ]
+    },
+    {
+      "title": "JetBrains YouTrack",
+      "slug": "jetbrains-youtrack",
+      "altNames": [
+        "YouTrack"
+      ]
+    },
+    {
+      "title": "jianguoyun",
+      "altNames": [
+        "坚果云"
+      ]
+    },
+    {
+      "title": "Jottacloud"
+    },
+    {
+      "title": "Jotty Page",
+      "slug": "jotty",
+      "altNames": [
+        "Jotty"
+      ]
+    },
+    {
+      "title": "JOYclub",
+      "slug": "joyclub",
+      "hex": "000000",
+      "altNames": [
+        "JOYCE"
+      ]
+    },
+    {
+      "title": "JumpCloud",
+      "slug": "jumpcloud"
+    },
+    {
+      "title": "Kagi"
+    },
+    {
+      "title": "Karlsruhe Institute of Technology",
+      "slug": "kit_karlsruhe",
+      "hex": "000000",
+      "altNames": [
+        "Karlsruher Institut für Technologie"
+      ]
+    },
+    {
+      "title": "Kayak",
+      "slug": "kayak"
+    },
+    {
+      "title": "Keygen",
+      "hex": "000000",
+      "altNames": [
+        "keygen.sh"
+      ]
+    },
+    {
+      "title": "Kick"
+    },
+    {
+      "title": "Kite"
+    },
+    {
+      "title": "Kiwix",
+      "slug": "kiwix",
+      "hex": "000000",
+      "altNames": [
+        "kiwix.org",
+        "get.kiwix.org",
+        "pro.kiwix.org",
+        "hub.kiwix.org"
+      ]
+    },
+    {
+      "title": "KnownHost",
+      "altNames": [
+        "Known Host",
+        "KnownHost.com"
+      ]
+    },
+    {
+      "title": "Ko-fi",
+      "slug": "ko_fi",
+      "altNames": [
+        "Ko fi",
+        "Kofi"
+      ]
+    },
+    {
+      "title": "Koofr"
+    },
+    {
+      "title": "Kotas",
+      "hex": "000000"
+    },
+    {
+      "title": "Koti"
+    },
+    {
+      "title": "KPN",
+      "color": "00CC00"
+    },
+    {
+      "title": "Kraken"
+    },
+    {
+      "title": "Kronos"
+    },
+    {
+      "title": "KuCoin"
+    },
+    {
+      "title": "La Poste",
+      "slug": "laposte"
+    },
+    {
+      "title": "Labcorp"
+    },
+    {
+      "title": "LabyMod",
+      "slug": "labymod"
+    },
+    {
+      "title": "Laneros",
+      "slug": "laneros",
+      "altNames": [
+        "laneros.com"
+      ]
+    },
+    {
+      "title": "Lark",
+      "slug": "lark",
+      "altNames": [
+        "飞书"
+      ]
+    },
+    {
+      "title": "LatinX in AI",
+      "slug": "latinxinai",
+      "hex": "000000",
+      "altNames": [
+        "Latinxinai.com",
+        "latinX in AI"
+      ]
+    },
+    {
+      "title": "LaunchDarkly",
+      "hex": "858585"
+    },
+    {
+      "title": "Leibniz Institute of Photonic Technology",
+      "slug": "leibniz-ipht"
+    },
+    {
+      "title": "Letterboxd"
+    },
+    {
+      "title": "LifeMiles",
+      "slug": "lifemiles",
+      "altNames": [
+        "Life Miles",
+        "lifemiles.com",
+        "Avianca LifeMiles"
+      ]
+    },
+    {
+      "title": "Lightyear",
+      "hex": "000000",
+      "altNames": [
+        "Lightyear Investing",
+        "Lightyear: Invest in stocks",
+        "Lightyear: Stocks and ETFs"
+      ]
+    },
+    {
+      "title": "lincolnfinancial",
+      "altNames": [
+        "Lincoln Financial",
+        "Lincoln Financial Group",
+        "LFG"
+      ]
+    },
+    {
+      "title": "Linehub",
+      "slug": "linehub",
+      "hex": "000000"
+    },
+    {
+      "title": "LinkedIn",
+      "slug": "linkedin"
+    },
+    {
+      "title": "Linus Tech Tips",
+      "slug": "linus_tech_tips",
+      "altNames": [
+        "LTT",
+        "Linus Tech Tips Forums",
+        "LTT Forums"
+      ]
+    },
+    {
+      "title": "Linux.Do",
+      "slug": "linux_do",
+      "altNames": [
+        "LINUX DO",
+        "LinxDo"
+      ]
+    },
+    {
+      "title": "Local",
+      "slug": "local_wp",
+      "altNames": [
+        "LocalWP",
+        "Local WP",
+        "Local Wordpress"
+      ]
+    },
+    {
+      "title": "Login.gov",
+      "slug": "login_gov"
+    },
+    {
+      "title": "Luma",
+      "slug": "luma",
+      "hex": "000000",
+      "altNames": [
+        "luma",
+        "lu.ma"
+      ]
+    },
+    {
+      "title": "Luno"
+    },
+    {
+      "title": "MacRumors",
+      "slug": "macrumors",
+      "altNames": [
+        "MacRumors Forums"
+      ]
+    },
+    {
+      "title": "magento2"
+    },
+    {
+      "title": "MailCow",
+      "slug": "mailcow",
+      "altNames": [
+        "mailcow",
+        "mailcow UI"
+      ]
+    },
+    {
+      "title": "Manage My Health",
+      "name": "Manage My Health",
+      "slug": "managemyhealth",
+      "altNames": [
+        "managemyhealth",
+        "Manage My Health NZ"
+      ]
+    },
+    {
+      "title": "MangaDex",
+      "slug": "mangadex"
+    },
+    {
+      "title": "Marketplace.tf",
+      "slug": "marketplacedottf"
+    },
+    {
+      "title": "Mastodon",
+      "altNames": [
+        "mstdn",
+        "fediscience",
+        "mathstodon",
+        "fosstodon"
+      ],
+      "hex": "6364FF"
+    },
+    {
+      "title": "matlab",
+      "altNames": [
+        "mathworks"
+      ]
+    },
+    {
+      "title": "Maxon"
+    },
+    {
+      "title": "Mbin",
+      "altNames": [
+        "kbin",
+        "thebrainbin",
+        "gehirneimer"
+      ]
+    },
+    {
+      "title": "Medeo",
+      "slug": "medeo"
+    },
+    {
+      "title": "Meesman Indexbeleggen",
+      "slug": "meesman"
+    },
+    {
+      "title": "Mein Grundeinkommen",
+      "slug": "mein_grundeinkommen"
+    },
+    {
+      "title": "Memed"
+    },
+    {
+      "title": "Mercado Libre",
+      "slug": "mercado_libre",
+      "altNames": [
+        "Mercado Libre",
+        "MercadoLibre",
+        "MercadoLivre"
+      ]
+    },
+    {
+      "title": "Mercury",
+      "slug": "mercury",
+      "hex": "000000"
+    },
+    {
+      "title": "MEXC"
+    },
+    {
+      "title": "microsoft"
+    },
+    {
+      "title": "Microsoft 365",
+      "slug": "microsoft365"
+    },
+    {
+      "title": "Migros"
+    },
+    {
+      "title": "Mint Mobile",
+      "slug": "mintmobile",
+      "altNames": [
+        "MintMobile"
+      ]
+    },
+    {
+      "title": "Mintos"
+    },
+    {
+      "title": "Mistral",
+      "altNames": [
+        "Le Chat",
+        "Mistral AI",
+        "MistralAI"
+      ]
+    },
+    {
+      "title": "Mobile01",
+      "slug": "mobile01",
+      "hex": "2A5E00",
+      "altNames": [
+        "M01"
+      ]
+    },
+    {
+      "title": "Mozilla",
+      "slug": "mozilla",
+      "hex": "000000",
+      "altNames": [
+        "Mozilla Account"
+      ]
+    },
+    {
+      "title": "MyFigureCollection",
+      "slug": "mfc",
+      "altNames": [
+        "MyFigureCollection.net",
+        "MFC"
+      ]
+    },
+    {
+      "title": "MyFRITZ!Net",
+      "slug": "myfritz",
+      "altNames": [
+        "MyFRITZ!",
+        "FritzBox",
+        "Fritz!Box",
+        "FritzBox 7590",
+        "FritzBox 7590 AX",
+        "FritzBox 7530",
+        "FritzBox 7530 AX",
+        "FritzBox 4040",
+        "FritzBox 4060",
+        "FritzBox 5530 Fiber",
+        "FritzBox 6490 Cable",
+        "FritzBox 6590 Cable",
+        "FritzBox 6591 Cable",
+        "FritzBox 6660 Cable",
+        "FritzBox 6820 LTE",
+        "FritzBox 6850 LTE",
+        "FritzBox 6850 5G",
+        "FritzBox 6890 LTE",
+        "FritzBox 7583",
+        "FritzBox 7520",
+        "FritzBox 7490",
+        "FritzBox 7583"
+      ]
+    },
+    {
+      "title": "MyHeritage",
+      "slug": "myheritage",
+      "altNames": [
+        "MyHeritage"
+      ]
+    },
+    {
+      "title": "myHSA",
+      "slug": "myhsa",
+      "altNames": [
+        "myHSA"
+      ]
+    },
+    {
+      "title": "Name.com",
+      "slug": "name_com"
+    },
+    {
+      "title": "nasdaq",
+      "hex": "0090BA"
+    },
+    {
+      "title": "Nedolauncher",
+      "slug": "nedolauncher",
+      "altNames": [
+        "Недолаунчер"
+      ]
+    },
+    {
+      "title": "NekoHosting",
+      "slug": "nekohosting",
+      "altNames": [
+        "NekoHosting Billing",
+        "NekoHosting Dashboard"
+      ]
+    },
+    {
+      "title": "NekoHosting Gaming Panel",
+      "slug": "nekohosting_gp",
+      "altNames": [
+        "NekoHosting Game Panel",
+        "NekoHosting GamePanel"
+      ]
+    },
+    {
+      "title": "Nelnet"
+    },
+    {
+      "title": "NetBird",
+      "slug": "netbird"
+    },
+    {
+      "title": "NeteaseMail",
+      "slug": "netease_mail",
+      "hex": "D81E06",
+      "altNames": [
+        "网易邮箱",
+        "Mail.163"
+      ]
+    },
+    {
+      "title": "Netim",
+      "slug": "netim"
+    },
+    {
+      "title": "Newgrounds",
+      "slug": "newgrounds"
+    },
+    {
+      "title": "Newton",
+      "altNames": [
+        "Newton Crypto"
+      ]
+    },
+    {
+      "title": "NEXO",
+      "slug": "nexo"
+    },
+    {
+      "title": "Nextcloud",
+      "slug": "nextcloud"
+    },
+    {
+      "title": "NextDNS"
+    },
+    {
+      "title": "ngrok",
+      "hex": "858585"
+    },
+    {
+      "title": "Ninety One",
+      "slug": "ninety_one"
+    },
+    {
+      "title": "Nintendo",
+      "hex": "000000",
+      "altNames": [
+        "任天堂",
+        "Nintendo Account"
+      ]
+    },
+    {
+      "title": "Njalla"
+    },
+    {
+      "title": "NJTransit",
+      "slug": "njtransit",
+      "altNames": [
+        "NJ Transit"
+      ]
+    },
+    {
+      "title": "NoIp",
+      "slug": "noip",
+      "altNames": [
+        "No IP",
+        "No-IP",
+        "noip.com"
+      ]
+    },
+    {
+      "title": "nordvpn",
+      "slug": "nordaccount",
+      "hex": "4687FF",
+      "altNames": [
+        "Nord Account"
+      ]
+    },
+    {
+      "title": "NorthC",
+      "slug": "northc"
+    },
+    {
+      "title": "Norton",
+      "slug": "norton",
+      "altNames": [
+        "NortonLifeLock",
+        "Norton 360"
+      ]
+    },
+    {
+      "title": "Notesnook"
+    },
+    {
+      "title": "Notion"
+    },
+    {
+      "title": "NuCommunity",
+      "hex": "820AD1"
+    },
+    {
+      "title": "NumberBarn",
+      "slug": "numberbarn"
+    },
+    {
+      "title": "numerai"
+    },
+    {
+      "title": "NVIDIA"
+    },
+    {
+      "title": "OCENSA",
+      "slug": "ocensa"
+    },
+    {
+      "title": "Odido"
+    },
+    {
+      "title": "okx",
+      "hex": "000000",
+      "altNames": [
+        "欧易"
+      ]
+    },
+    {
+      "title": "ONEROXE",
+      "hex": "000000",
+      "altNames": [
+        "Arcle"
+      ]
+    },
+    {
+      "title": "Onidel",
+      "slug": "onidel"
+    },
+    {
+      "title": "Online Payment Platform",
+      "slug": "online_payment_platform",
+      "altNames": [
+        "OPP"
+      ]
+    },
+    {
+      "title": "OnShape",
+      "slug": "onshape",
+      "hex": "7abb5e"
+    },
+    {
+      "title": "OpenObserve",
+      "slug": "open_observe",
+      "altNames": [
+        "openobserve.ai",
+        "openobserve ai"
+      ]
+    },
+    {
+      "title": "OpenRouter",
+      "slug": "openrouter",
+      "hex": "FFFFFF"
+    },
+    {
+      "title": "Opera",
+      "slug": "opera",
+      "altNames": [
+        "auth.opera.com"
+      ]
+    },
+    {
+      "title": "Oracle Cloud",
+      "slug": "oracle_cloud"
+    },
+    {
+      "title": "Palform",
+      "slug": "palform"
+    },
+    {
+      "title": "PandaDoc",
+      "slug": "pandadoc",
+      "altNames": [
+        "PandaDoc"
+      ]
+    },
+    {
+      "title": "Pangolin",
+      "slug": "pangolin"
+    },
+    {
+      "title": "Parallels",
+      "slug": "parallels",
+      "hex": "E61E25",
+      "altNames": [
+        "Parallels Desktop",
+        "Parallels VM"
+      ]
+    },
+    {
+      "title": "ParcelDealz",
+      "slug": "parceldealz",
+      "hex": "a930af"
+    },
+    {
+      "title": "Parqet",
+      "slug": "parqet"
+    },
+    {
+      "title": "Parsec"
+    },
+    {
+      "title": "Passbolt",
+      "slug": "passbolt",
+      "hex": "D40101"
+    },
+    {
+      "title": "Patchmon",
+      "slug": "patchmon"
+    },
+    {
+      "title": "Patient Access",
+      "slug": "patient_access"
+    },
+    {
+      "title": "PayPal"
+    },
+    {
+      "title": "Payworks"
+    },
+    {
+      "title": "PBTech",
+      "slug": "pbtech",
+      "hex": "f08222"
+    },
+    {
+      "title": "pCloud",
+      "slug": "pcloud"
+    },
+    {
+      "title": "PCPartPicker",
+      "slug": "pcpartpicker",
+      "altNames": [
+        "PC Part Picker"
+      ]
+    },
+    {
+      "title": "PebbleHost",
+      "slug": "pebble_host",
+      "altNames": [
+        "Pebble Host"
+      ]
+    },
+    {
+      "title": "Peerberry",
+      "hex": "00E6A5"
+    },
+    {
+      "title": "Peking University",
+      "slug": "peking_university",
+      "hex": "9A0000",
+      "altNames": [
+        "北京大学",
+        "PKU",
+        "Peking Univ"
+      ]
+    },
+    {
+      "title": "PenFed",
+      "slug": "penfed"
+    },
+    {
+      "title": "Perkbox",
+      "slug": "perkbox"
+    },
+    {
+      "title": "Pingvin Share"
+    },
+    {
+      "title": "Pionex",
+      "slug": "pionex",
+      "hex": "000000"
+    },
+    {
+      "title": "PJe",
+      "altNames": [
+        "Processo Judicial Eletronico",
+        "Processo Judicial Eletrônico"
+      ],
+      "slug": "pje"
+    },
+    {
+      "title": "Plus Crypto",
+      "slug": "plus_crypto"
+    },
+    {
+      "title": "Plutus",
+      "hex": "DEC685"
+    },
+    {
+      "title": "Poloniex"
+    },
+    {
+      "title": "Porkbun"
+    },
+    {
+      "title": "Posteo"
+    },
+    {
+      "title": "Postmark",
+      "slug": "postmarkapp",
+      "altNames": [
+        "postmarkapp"
+      ]
+    },
+    {
+      "title": "PostNL"
+    },
+    {
+      "title": "PostScan Mail",
+      "slug": "postscanmail",
+      "altNames": [
+        "Post Scan Mail",
+        "PostScanMail"
+      ]
+    },
+    {
+      "title": "PowerDMARC",
+      "slug": "powerdmarc",
+      "hex": "00213f"
+    },
+    {
+      "title": "Prey Project",
+      "slug": "prey_project",
+      "altNames": [
+        "PreyProject"
+      ]
+    },
+    {
+      "title": "Privacy Guides",
+      "slug": "privacyguides"
+    },
+    {
+      "title": "Privacy.com",
+      "slug": "privacy"
+    },
+    {
+      "title": "PrivateHD.to",
+      "slug": "privatehd"
+    },
+    {
+      "title": "Proton"
+    },
+    {
+      "title": "Proton Calendar",
+      "slug": "proton_calendar"
+    },
+    {
+      "title": "Proton Drive",
+      "slug": "proton_drive"
+    },
+    {
+      "title": "Proton Mail",
+      "slug": "proton_mail"
+    },
+    {
+      "title": "Proton Pass",
+      "slug": "proton_pass"
+    },
+    {
+      "title": "Proton VPN",
+      "slug": "proton_vpn"
+    },
+    {
+      "title": "Proton Wallet",
+      "slug": "proton_wallet"
+    },
+    {
+      "title": "Proxmox",
+      "hex": "E57000"
+    },
+    {
+      "title": "PSNProfiles",
+      "slug": "psnprofiles",
+      "hex": "000000"
+    },
+    {
+      "title": "Pufferfish Host",
+      "slug": "pufferfish_host"
+    },
+    {
+      "title": "Pushover",
+      "slug": "pushover"
+    },
+    {
+      "title": "qiniuyun",
+      "hex": "02A7E0",
+      "altNames": [
+        "七牛云",
+        "qiniu"
+      ]
+    },
+    {
+      "title": "Questrade",
+      "slug": "questrade",
+      "hex": "3EA448"
+    },
+    {
+      "title": "R10.net",
+      "slug": "r10",
+      "altNames": [
+        "R10",
+        "r10.net"
+      ]
+    },
+    {
+      "title": "Racket Coach",
+      "slug": "racket_coach",
+      "hex": "16a34a",
+      "altNames": [
+        "racketcoach",
+        "racketcoach.app"
+      ]
+    },
+    {
+      "title": "RackNerd",
+      "slug": "racknerd"
+    },
+    {
+      "title": "RaiderIO",
+      "slug": "raider_io",
+      "altNames": [
+        "raider.io"
+      ]
+    },
+    {
+      "title": "Raindrop.io",
+      "slug": "raindrop_io",
+      "altNames": [
+        "Raindrop"
+      ]
+    },
+    {
+      "title": "randstad",
+      "hex": "2175D9"
+    },
+    {
+      "title": "Real-Debrid",
+      "slug": "real_debrid"
+    },
+    {
+      "title": "RealMe",
+      "slug": "realme"
+    },
+    {
+      "title": "RealVNC",
+      "slug": "realvnc",
+      "hex": "488aec"
+    },
+    {
+      "title": "Recruit",
+      "slug": "recruit",
+      "altNames": [
+        "リクルート",
+        "リクルートID",
+        "recruit id",
+        "recruit holdings",
+        "rgf"
+      ]
+    },
+    {
+      "title": "RedFlagDeals",
+      "slug": "redflagdeals"
+    },
+    {
+      "title": "RedotPay",
+      "altNames": [
+        "redotpay",
+        "redot pay",
+        "redot-pay",
+        "redotpay.com"
+      ]
+    },
+    {
+      "title": "Registro br",
+      "slug": "registro_br",
+      "altNames": [
+        "registrobr",
+        "Registro.br"
+      ]
+    },
+    {
+      "title": "reMarkable",
+      "hex": "000000"
+    },
+    {
+      "title": "Remote HR",
+      "slug": "remote",
+      "altNames": [
+        "Remote",
+        "remote.com",
+        "employ.remote.com"
+      ]
+    },
+    {
+      "title": "Reolink",
+      "slug": "reolink"
+    },
+    {
+      "title": "Restream",
+      "slug": "restream",
+      "altNames": [
+        "restream.io"
+      ]
+    },
+    {
+      "title": "Ripio"
+    },
+    {
+      "title": "RippleMatch",
+      "hex": "000000"
+    },
+    {
+      "title": "Rockstar Games",
+      "slug": "rockstar_games"
+    },
+    {
+      "title": "Rose-Hulman Institute of Technology",
+      "slug": "rose_hulman",
+      "altNames": [
+        "rose-hulman",
+        "Rose-Hulman",
+        "Rose Hulman",
+        "Rose Hulman Institute of Technology",
+        "RHIT"
+      ]
+    },
+    {
+      "title": "RuneMate"
+    },
+    {
+      "title": "RuneScape Wiki",
+      "slug": "runescape_wiki"
+    },
+    {
+      "title": "Rust Language Forum",
+      "slug": "rust_language_forum",
+      "hex": "000000"
+    },
+    {
+      "title": "RustDesk",
+      "slug": "rustdesk",
+      "altNames": [
+        "RustDesk Connection"
+      ]
+    },
+    {
+      "title": "Samsung",
+      "altNames": [
+        "Samsung Account"
+      ]
+    },
+    {
+      "title": "SBI",
+      "slug": "sbi",
+      "altNames": [
+        "onlinesbi",
+        "State Bank of India"
+      ]
+    },
+    {
+      "title": "Scouting Nederland",
+      "slug": "scoutingnederland"
+    },
+    {
+      "title": "Seafile",
+      "slug": "seafile"
+    },
+    {
+      "title": "Securo Finance",
+      "slug": "securo",
+      "altNames": [
+        "Securo"
+      ]
+    },
+    {
+      "title": "SEI",
+      "altNames": [
+        "sei",
+        "sei!",
+        "SEI!",
+        "Sistema Eletrônico de Informações",
+        "SEI/SEDE"
+      ]
+    },
+    {
+      "title": "Sendgrid"
+    },
+    {
+      "title": "service-bw"
+    },
+    {
+      "title": "Shakepay",
+      "hex": "00A2FF"
+    },
+    {
+      "title": "Sherweb",
+      "slug": "sherweb"
+    },
+    {
+      "title": "SimpleLogin"
+    },
+    {
+      "title": "Simplicity",
+      "altNames": [
+        "simplicitynz",
+        "simplicity.kiwi"
+      ]
+    },
+    {
+      "title": "Sipgate"
+    },
+    {
+      "title": "Skiff",
+      "hex": "EF5A3C"
+    },
+    {
+      "title": "Skinport"
+    },
+    {
+      "title": "Skroutz",
+      "slug": "skroutz",
+      "altNames": [
+        "Skroutz.gr"
+      ]
+    },
+    {
+      "title": "Skyscanner",
+      "hex": "0770E3"
+    },
+    {
+      "title": "Smogon",
+      "slug": "smogon",
+      "altNames": [
+        "Smogon University"
+      ]
+    },
+    {
+      "title": "Smouter"
+    },
+    {
+      "title": "SMSFAST",
+      "altNames": [
+        "SMSFAST"
+      ]
+    },
+    {
+      "title": "SMSPool",
+      "slug": "sms_pool_net",
+      "altNames": [
+        "smspool.net",
+        "smspool net"
+      ]
+    },
+    {
+      "title": "SMTP2GO"
+    },
+    {
+      "title": "Snapchat"
+    },
+    {
+      "title": "Sony",
+      "slug": "sony",
+      "hex": "000000"
+    },
+    {
+      "title": "SpaceHey",
+      "hex": "1D4ED8"
+    },
+    {
+      "title": "Square Enix",
+      "slug": "square_enix",
+      "altNames": [
+        "Square Enix ID"
+      ]
+    },
+    {
+      "title": "Standard Notes",
+      "slug": "standardnotes"
+    },
+    {
+      "title": "Starbreeze",
+      "altNames": [
+        "Starbreeze Nebula",
+        "Starbreeze Account",
+        "PAYDAY",
+        "PAYDAY 3"
+      ]
+    },
+    {
+      "title": "Startmail",
+      "slug": "startmail"
+    },
+    {
+      "title": "State Farm",
+      "slug": "state_farm",
+      "altNames": [
+        "StateFarm"
+      ],
+      "hex": "EDA920"
+    },
+    {
+      "title": "Stoat",
+      "altNames": [
+        "stoat.chat"
+      ]
+    },
+    {
+      "title": "STRATO",
+      "hex": "FF8800"
+    },
+    {
+      "title": "Stripchat",
+      "slug": "stripchat",
+      "altNames": [
+        "Strip Chat",
+        "stripchat.com",
+        "StripChat Live"
+      ]
+    },
+    {
+      "title": "Supercell",
+      "slug": "supercell"
+    },
+    {
+      "title": "Surfshark"
+    },
+    {
+      "title": "Synology DSM",
+      "slug": "synology_dsm"
+    },
+    {
+      "title": "T-Mobile",
+      "hex": "E20074",
+      "altNames": [
+        "T Mobile",
+        "T-Mobile ID"
+      ]
+    },
+    {
+      "title": "Tableau"
+    },
+    {
+      "title": "Tally.so",
+      "slug": "tally_so",
+      "altNames": [
+        "Tally Forms",
+        "Tally"
+      ],
+      "hex": "000000"
+    },
+    {
+      "title": "TCPShield",
+      "hex": "000000"
+    },
+    {
+      "title": "Tebex",
+      "slug": "tebex",
+      "altNames": [
+        "tebex",
+        "tebex.io",
+        "buycraft"
+      ]
+    },
+    {
+      "title": "Techlore",
+      "altNames": [
+        "Techlore Courses",
+        "Techlore Forums"
+      ]
+    },
+    {
+      "title": "Teleport",
+      "altNames": [
+        "Gravitational Teleport",
+        "GoTeleport"
+      ]
+    },
+    {
+      "title": "Tello",
+      "altNames": [
+        "Tello Mobile"
+      ]
+    },
+    {
+      "title": "Temu",
+      "slug": "temu"
+    },
+    {
+      "title": "tencent cloud",
+      "slug": "tencent_cloud",
+      "altNames": [
+        "腾讯云",
+        "tencentcloud"
+      ]
+    },
+    {
+      "title": "Terabit",
+      "slug": "terabit",
+      "altNames": [
+        "Terabit Hosting",
+        "terabit.io"
+      ]
+    },
+    {
+      "title": "Termius",
+      "hex": "858585"
+    },
+    {
+      "title": "TETR.IO",
+      "slug": "tetrio",
+      "altNames": [
+        "tetrio",
+        "tetr.io"
+      ]
+    },
+    {
+      "title": "The StoryGraph",
+      "slug": "thestorygraph",
+      "altNames": [
+        "StoryGraph",
+        "TheStoryGraph"
+      ]
+    },
+    {
+      "title": "ThreatLocker",
+      "slug": "threatlocker",
+      "hex": "000000",
+      "altNames": [
+        "ThreatLocker,Inc"
+      ]
+    },
+    {
+      "title": "tianyiyun",
+      "hex": "F3A22F",
+      "altNames": [
+        "天翼云"
+      ]
+    },
+    {
+      "title": "TikTok",
+      "hex": "000000"
+    },
+    {
+      "title": "Titan"
+    },
+    {
+      "title": "Tokopedia",
+      "altNames": [
+        "Tokped"
+      ]
+    },
+    {
+      "title": "TorBox"
+    },
+    {
+      "title": "TorGuard"
+    },
+    {
+      "title": "Toshl Finance",
+      "slug": "toshl_finance",
+      "altNames": [
+        "Toshl"
+      ]
+    },
+    {
+      "title": "Toyhouse",
+      "altNames": [
+        "Toyhou.se"
+      ]
+    },
+    {
+      "title": "Trade Republic",
+      "slug": "trade_republic",
+      "hex": "000000"
+    },
+    {
+      "title": "Trading 212"
+    },
+    {
+      "title": "TradingView"
+    },
+    {
+      "title": "TransIP"
+    },
+    {
+      "title": "Tresorit"
+    },
+    {
+      "title": "TRowePrice",
+      "hex": "00CFEC",
+      "altNames": [
+        "T Rowe Price",
+        "TRowe Price",
+        "T Rowe Price Group",
+        "T Rowe Price Group, Inc"
+      ]
+    },
+    {
+      "title": "Truth Social",
+      "slug": "truth_social",
+      "altNames": [
+        "truthsocial.com"
+      ]
+    },
+    {
+      "title": "TU Dresden",
+      "slug": "tu_dresden",
+      "altNames": [
+        "Technische Universität Dresden",
+        "Dresden University of Technology"
+      ],
+      "hex": "00305d"
+    },
+    {
+      "title": "TunnelBear",
+      "altNames": [
+        "TunnelBear"
+      ]
+    },
+    {
+      "title": "Tuta",
+      "slug": "tuta",
+      "altNames": [
+        "Tutanota"
+      ]
+    },
+    {
+      "title": "Tweakers"
+    },
+    {
+      "title": "Twingate",
+      "hex": "858585"
+    },
+    {
+      "title": "Twitch",
+      "altNames": [
+        "Twitch.tv",
+        "Twitch tv"
+      ]
+    },
+    {
+      "title": "Twitter"
+    },
+    {
+      "title": "Ubiquiti",
+      "slug": "ubiquiti",
+      "altNames": [
+        "Unifi SSO",
+        "Unifi",
+        "Ubiquiti SSO"
+      ]
+    },
+    {
+      "title": "Ubisoft",
+      "hex": "000000"
+    },
+    {
+      "title": "Ubuntu One",
+      "slug": "ubuntu_one"
+    },
+    {
+      "title": "UCF",
+      "slug": "ucf"
+    },
+    {
+      "title": "unitedhealthgroup",
+      "altNames": [
+        "Unitedhealth Group",
+        "United Healthgroup",
+        "UHG",
+        "uhg.com",
+        "unitedhealthgroup.com"
+      ]
+    },
+    {
+      "title": "Unity",
+      "hex": "858585"
+    },
+    {
+      "title": "University of Auckland",
+      "slug": "uoa"
+    },
+    {
+      "title": "uollet",
+      "slug": "uollet",
+      "altNames": [
+        "UOLLET",
+        "uollet.com.br"
+      ]
+    },
+    {
+      "title": "Uphold"
+    },
+    {
+      "title": "UPS"
+    },
+    {
+      "title": "Upstox"
+    },
+    {
+      "title": "UptimeRobot",
+      "slug": "uptimerobot"
+    },
+    {
+      "title": "US Army",
+      "slug": "us_army"
+    },
+    {
+      "title": "US Mobile",
+      "slug": "us_mobile"
+    },
+    {
+      "title": "uscis",
+      "altNames": [
+        "USCIS",
+        "myuscis",
+        "uscis.gov"
+      ]
+    },
+    {
+      "title": "UU",
+      "altNames": [
+        "Utrecht University",
+        "Universiteit Utrecht",
+        "uu"
+      ]
+    },
+    {
+      "title": "Venice AI",
+      "slug": "venice_ai",
+      "altNames": [
+        "Venice.ai"
+      ]
+    },
+    {
+      "title": "VGen",
+      "slug": "vgen",
+      "altNames": [
+        "vgen.co"
+      ]
+    },
+    {
+      "title": "VGN",
+      "slug": "vgn",
+      "altNames": [
+        "Ver­kehrs­ver­bund Groß­raum Nürn­berg"
+      ]
+    },
+    {
+      "title": "VHV",
+      "slug": "vhv",
+      "altNames": [
+        "VHV",
+        "VHV Versicherung"
+      ]
+    },
+    {
+      "title": "Via Rail",
+      "slug": "via_rail",
+      "altNames": [
+        "Via",
+        "VIA Rail",
+        "Via Rail Canada"
+      ]
+    },
+    {
+      "title": "Vikunja"
+    },
+    {
+      "title": "volcengine",
+      "altNames": [
+        "火山引擎"
+      ]
+    },
+    {
+      "title": "WARGAMING.NET",
+      "slug": "wargamingnet"
+    },
+    {
+      "title": "Warner Bros.",
+      "slug": "warner_bros",
+      "altNames": [
+        "Warner Brothers",
+        "WB Games Account"
+      ]
+    },
+    {
+      "title": "Wave Financial",
+      "slug": "wave_financial",
+      "altNames": [
+        "my.waveapps.com"
+      ]
+    },
+    {
+      "title": "Wealthfront"
+    },
+    {
+      "title": "Wealthify"
+    },
+    {
+      "title": "Wealthsimple"
+    },
+    {
+      "title": "WEB.DE",
+      "slug": "web_de"
+    },
+    {
+      "title": "WeMod",
+      "slug": "wemod",
+      "altNames": [
+        "wemod"
+      ],
+      "hex": "4B63FB"
+    },
+    {
+      "title": "WHMCS"
+    },
+    {
+      "title": "Wick"
+    },
+    {
+      "title": "Wikimedia"
+    },
+    {
+      "title": "Windscribe"
+    },
+    {
+      "title": "Wise"
+    },
+    {
+      "title": "Withings",
+      "slug": "withings"
+    },
+    {
+      "title": "WMATA",
+      "slug": "wmata",
+      "altNames": [
+        "Washington Metro",
+        "DC Metro",
+        "Washington Metropolitan Area Transit Authority"
+      ]
+    },
+    {
+      "title": "Wolvesville"
+    },
+    {
+      "title": "Wordfence",
+      "slug": "wordfence"
+    },
+    {
+      "title": "Workflowy"
+    },
+    {
+      "title": "WorkOS",
+      "altNames": [
+        "Work OS"
+      ]
+    },
+    {
+      "title": "World Cube Association",
+      "slug": "wca",
+      "altNames": [
+        "WCA",
+        "worldcubeassociation"
+      ]
+    },
+    {
+      "title": "WYZE"
+    },
+    {
+      "title": "X Networks",
+      "slug": "xnetworks",
+      "hex": "00FF66",
+      "altNames": [
+        "xnetworks",
+        "xnet",
+        "sidekick"
+      ]
+    },
+    {
+      "title": "xAI",
+      "slug": "xai",
+      "hex": "000000"
+    },
+    {
+      "title": "Xbox",
+      "hex": "107C10"
+    },
+    {
+      "title": "XVideos",
+      "slug": "xvideos",
+      "altNames": [
+        "X Videos",
+        "xvideos.com"
+      ]
+    },
+    {
+      "title": "Yahoo",
+      "hex": "5F01D2"
+    },
+    {
+      "title": "Yandex",
+      "slug": "yandex",
+      "altNames": [
+        "Ya",
+        "Яндекс"
+      ]
+    },
+    {
+      "title": "YNAB",
+      "altNames": [
+        "You Need A Budget"
+      ]
+    },
+    {
+      "title": "Yoti",
+      "altNames": [
+        "Yoti Hub",
+        "Yoti Portal",
+        "hub.yoti.com",
+        "identity.yoti.com"
+      ]
+    },
+    {
+      "title": "Zabbix",
+      "slug": "zabbix"
+    },
+    {
+      "title": "Zitadel"
+    },
+    {
+      "title": "Zivver",
+      "slug": "zivver",
+      "hex": "000000"
+    },
+    {
+      "title": "Zoom"
+    },
+    {
+      "title": "ZOOM Platform",
+      "slug": "zoom_platform"
+    },
+    {
+      "title": "Zyxel Nebula",
+      "slug": "zyxel-nebula"
+    }
+  ]
+}

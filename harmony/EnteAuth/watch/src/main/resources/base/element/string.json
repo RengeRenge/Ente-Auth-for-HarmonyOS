@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Ente Auth 手表端：查看验证码"
+    },
+    {
+      "name": "WatchAbility_desc",
+      "value": "Ente Auth 手表端"
+    },
+    {
+      "name": "WatchAbility_label",
+      "value": "Ente Auth"
+    }
+  ]
+}

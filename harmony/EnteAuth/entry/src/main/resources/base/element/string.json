@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Ente Auth for HarmonyOS"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Ente Auth authenticator"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Ente Auth"
+    },
+    {
+      "name": "gesture_reason",
+      "value": "智感握姿需要根据握持手势调整界面布局"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+# 默认：文本文件自动识别，统一以 LF 入库
+* text=auto eol=lf
+
+# Windows 脚本保持 CRLF
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+
+# 源码 / 配置
+*.ets text
+*.ts text
+*.js text
+*.mjs text
+*.json text
+*.json5 text
+*.cpp text
+*.h text
+*.txt text
+*.md text
+*.cmake text
+CMakeLists.txt text
+
+# 二进制文件（禁止行尾转换）
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.svg text
+*.ttf binary
+*.woff2 binary
+*.wasm binary
+*.hap binary
+*.har binary
+*.hsp binary
+*.so binary
+*.p12 binary
+*.cer binary
+*.p7b binary

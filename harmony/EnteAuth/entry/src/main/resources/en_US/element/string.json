@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Ente Auth for HarmonyOS"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Ente Auth authenticator"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Ente Auth"
+    },
+    {
+      "name": "gesture_reason",
+      "value": "Smart grip detection is used to adapt the layout to your holding hand"
+    }
+  ]
+}

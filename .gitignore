@@ -1,0 +1,37 @@
+# === HarmonyOS 构建产物 / IDE ===
+build/
+.hvigor/
+.hvigor_cache/
+.idea/
+oh_modules/
+*.hap
+*.har
+*.hsp
+*.app
+local.properties
+
+# === 签名材料（含私钥，禁止提交）===
+signature/
+
+# === 本地工具、参考副本、调试日志 ===
+.tools/
+.screenshots/
+
+# === 应用商店上架材料（如需入库执行：git add -f release）===
+release/
+AGC上架信息.md
+
+# === 系统 / 编辑器 ===
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.trae/
+harmony/EnteAuth/.cache/
+harmony/EnteAuth/.tmp_shots/
+harmony/EnteAuth/dfx-reports/
+harmony/EnteAuth/tmp/
+harmony/EnteAuth/.ui-verify/
+harmony/EnteAuth/tmp-debug/
+harmony/EnteAuth/entry/.cxx/
+harmony/EnteAuth/.deveco-tmp/

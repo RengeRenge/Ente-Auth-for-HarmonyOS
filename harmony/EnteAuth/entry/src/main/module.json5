@@ -1,0 +1,66 @@
+{
+  "module": {
+    "name": "entry",
+    "type": "entry",
+    "description": "$string:module_desc",
+    "mainElement": "EntryAbility",
+    "deviceTypes": [
+      "phone",
+      "tablet",
+      "2in1"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "metadata": [
+      {
+        // Wear Engine 接入配置：填 AppGallery Connect「项目设置 > 常规 > 应用」中的 Client ID
+        "name": "client_id",
+        "value": "6917621054566340897"
+      }
+    ],
+    "requestPermissions": [
+      {
+        "name": "ohos.permission.INTERNET"
+      },
+      {
+        "name": "ohos.permission.ACCESS_BIOMETRIC"
+      },
+      {
+        // 握持感知：自动识别左右手持握，让 + 按钮跟随手的位置
+        "name": "ohos.permission.DETECT_GESTURE",
+        "reason": "$string:gesture_reason",
+        "usedScene": {
+          "abilities": [
+            "EntryAbility"
+          ],
+          "when": "inuse"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": "EntryAbility",
+        "srcEntry": "./ets/entryability/EntryAbility.ets",
+        "description": "$string:EntryAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:EntryAbility_label",
+        "startWindowIcon": "$media:foreground",
+        "startWindowBackground": "$color:start_window_background",
+        // 旋转适配：跟随系统重力感应自动横竖屏切换
+        "orientation": "auto_rotation",
+        "exported": true,
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "action.system.home"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

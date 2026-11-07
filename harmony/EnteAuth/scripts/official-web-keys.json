@@ -1,0 +1,21 @@
+{
+  "可选": "auth_optional",
+  "欢迎回来": "auth_welcome_back",
+  "丢失了双重认证设备": "lost_2fa_device",
+  "输入您的信息以继续。": "auth_login_subtitle",
+  "您双重认证验证码的安全之家": "authenticator_auth_headline",
+  "请输入您从身份验证器应用中获取的 6 位数字代码。": "enter_two_factor_otp",
+  "端到端加密。跨平台。开源。": "photos_auth_subtitle",
+  "永久免费": "authenticator_auth_free",
+  "无广告，无窥探": "photos_auth_no_ads_no_spying",
+  "通过独立审计": "auth_independently_audited",
+  "网络错误。请检查您的网络连接。": "network_error",
+  "此电子邮件已被使用": "account_recovery_email_in_use",
+  "正在解密": "decrypting",
+  "正在以 <a>{{email}}</a> 的身份登录": "auth_signing_in_as",
+  "请输入您创建账户时保存的恢复密钥。": "auth_recover_account_subtitle",
+  "发送 OTP": "send_otp",
+  "1 分钟": "auto_lock_1_minute",
+  "5 分钟": "auto_lock_5_minutes",
+  "立即": "auto_lock_immediately"
+}

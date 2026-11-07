@@ -1,0 +1,44 @@
+{
+  "module": {
+    "name": "watch",
+    "type": "entry",
+    "description": "$string:module_desc",
+    "mainElement": "WatchAbility",
+    "deviceTypes": [
+      "wearable"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "metadata": [
+      {
+        // Wear Engine 接入配置：填 AppGallery Connect「项目设置 > 常规 > 应用」中的 Client ID
+        "name": "client_id",
+        "value": "6917621054566340897"
+      }
+    ],
+    "abilities": [
+      {
+        "name": "WatchAbility",
+        "srcEntry": "./ets/entryability/WatchAbility.ets",
+        "description": "$string:WatchAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:WatchAbility_label",
+        "startWindowIcon": "$media:watch_start_icon",
+        "startWindowBackground": "$color:start_window_background",
+        "startWindow": "$profile:start_window",
+        "exported": true,
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "action.system.home"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

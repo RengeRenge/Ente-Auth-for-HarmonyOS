@@ -1,0 +1,9 @@
+{
+  "name": "watch",
+  "version": "1.0.0",
+  "description": "Ente Auth watch companion (view codes only)",
+  "main": "",
+  "author": "",
+  "license": "AGPL-3.0",
+  "dependencies": {}
+}

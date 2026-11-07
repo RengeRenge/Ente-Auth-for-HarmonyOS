@@ -1,0 +1,4 @@
+[submodule "src/ente"]
+	path = src/ente
+	url = https://github.com/ente-io/ente.git
+	shallow = true
